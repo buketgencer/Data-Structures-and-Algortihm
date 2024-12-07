@@ -1,0 +1,10 @@
+Electronics Shop Inventory Report
+Generated on: 2024-03-25
+---------------------------------------
+| No. | Category | Name | Price | Quantity |
+---------------------------------------
+---------------------------------------
+Summary:
+- Total Number of Devices: 0
+- Total Inventory Value: $0.0
+End of Report
